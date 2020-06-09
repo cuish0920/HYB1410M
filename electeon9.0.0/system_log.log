@@ -1,0 +1,82 @@
+2020-06-09 14:26:02,109 [DEBUG] 日志初使化成功
+2020-06-09 14:26:07,300 [DEBUG] 相机初使化参数{"system_ini":1,"ProgFrameTimeAbs":50,"ExposureTimeRaw":20,"BinningHorizontal":4,"BinningVertical":4,"Width":344,"Height":260,"ReverseX":0,"PixelFormat":17825797,"TriggerMode":0,"TriggerActivation":0,"TriggerSource":27,"ExposureMode":1,"ProgFrameTimeEnable":1,"TriggerType":1,"GainRaw":134,"gpsport":1,"filePath":""}
+2020-06-09 14:26:25,886 [DEBUG] 日志初使化成功
+2020-06-09 14:26:30,597 [DEBUG] 相机初使化参数{"system_ini":1,"ProgFrameTimeAbs":50,"ExposureTimeRaw":20,"BinningHorizontal":4,"BinningVertical":4,"Width":344,"Height":260,"ReverseX":0,"PixelFormat":17825797,"TriggerMode":0,"TriggerActivation":0,"TriggerSource":27,"ExposureMode":1,"ProgFrameTimeEnable":1,"TriggerType":1,"GainRaw":134,"gpsport":1,"filePath":""}
+2020-06-09 14:27:51,743 [DEBUG] 日志初使化成功
+2020-06-09 14:27:54,609 [DEBUG] 相机初使化参数{"system_ini":1,"ProgFrameTimeAbs":50,"ExposureTimeRaw":20,"BinningHorizontal":4,"BinningVertical":4,"Width":344,"Height":260,"ReverseX":0,"PixelFormat":17825797,"TriggerMode":0,"TriggerActivation":0,"TriggerSource":27,"ExposureMode":1,"ProgFrameTimeEnable":1,"TriggerType":1,"GainRaw":134,"gpsport":1,"filePath":""}
+2020-06-09 14:28:54,483 [DEBUG] 日志初使化成功
+2020-06-09 14:28:57,266 [DEBUG] 相机初使化参数{"system_ini":1,"ProgFrameTimeAbs":50,"ExposureTimeRaw":20,"BinningHorizontal":4,"BinningVertical":4,"Width":344,"Height":260,"ReverseX":0,"PixelFormat":17825797,"TriggerMode":0,"TriggerActivation":0,"TriggerSource":27,"ExposureMode":1,"ProgFrameTimeEnable":1,"TriggerType":1,"GainRaw":134,"gpsport":1,"filePath":""}
+2020-06-09 14:30:08,925 [DEBUG] 日志初使化成功
+2020-06-09 14:30:13,122 [DEBUG] 相机初使化参数{"system_ini":1,"ProgFrameTimeAbs":50,"ExposureTimeRaw":20,"BinningHorizontal":4,"BinningVertical":4,"Width":344,"Height":260,"ReverseX":0,"PixelFormat":17825797,"TriggerMode":0,"TriggerActivation":0,"TriggerSource":27,"ExposureMode":1,"ProgFrameTimeEnable":1,"TriggerType":1,"GainRaw":134,"gpsport":1,"filePath":""}
+2020-06-09 14:31:40,456 [DEBUG] 日志初使化成功
+2020-06-09 14:31:58,983 [DEBUG] 相机初使化参数{"system_ini":1,"ProgFrameTimeAbs":50,"ExposureTimeRaw":20,"BinningHorizontal":4,"BinningVertical":4,"Width":344,"Height":260,"ReverseX":0,"PixelFormat":17825797,"TriggerMode":0,"TriggerActivation":0,"TriggerSource":27,"ExposureMode":1,"ProgFrameTimeEnable":1,"TriggerType":1,"GainRaw":134,"gpsport":1,"filePath":""}
+2020-06-09 14:31:59,181 [DEBUG] ProgFrameTimeAbs=50 20000.000000
+2020-06-09 14:32:21,639 [DEBUG] maxExposure 20000 value=12500
+2020-06-09 14:32:21,639 [DEBUG] maxExposurevalue=12500
+2020-06-09 14:32:21,665 [DEBUG] maxExposure 20000 value=12500
+2020-06-09 14:32:21,665 [DEBUG] maxExposurevalue=12500
+2020-06-09 14:32:25,064 [DEBUG] maxExposure 20000 value=12500
+2020-06-09 14:32:25,064 [DEBUG] maxExposurevalue=12500
+2020-06-09 14:32:25,089 [DEBUG] maxExposure 20000 value=12500
+2020-06-09 14:32:25,089 [DEBUG] maxExposurevalue=12500
+2020-06-09 14:32:28,749 [DEBUG] maxExposure 20000 value=12500
+2020-06-09 14:32:28,749 [DEBUG] maxExposurevalue=12500
+2020-06-09 14:32:28,774 [DEBUG] maxExposure 20000 value=12500
+2020-06-09 14:32:28,774 [DEBUG] maxExposurevalue=12500
+2020-06-09 14:32:35,155 [DEBUG] StopAcquisition
+2020-06-09 14:32:41,041 [DEBUG] maxExposure 20000 value=14705
+2020-06-09 14:32:41,041 [DEBUG] maxExposurevalue=14705
+2020-06-09 14:32:41,069 [DEBUG] maxExposure 10182 value=14705
+2020-06-09 14:32:41,069 [DEBUG] maxExposurevalue=10182
+2020-06-09 14:33:20,137 [DEBUG] StopAcquisition
+2020-06-09 14:33:28,491 [DEBUG] StopAcquisition
+2020-06-09 14:33:35,902 [DEBUG] StopAcquisition
+2020-06-09 14:33:47,307 [DEBUG] StopAcquisition
+2020-06-09 14:34:06,667 [DEBUG] 相机初使化参数{"system_ini":1,"ProgFrameTimeAbs":68,"ExposureTimeRaw":14705.882352941177,"BinningHorizontal":4,"BinningVertical":4,"Width":344,"Height":260,"ReverseX":0,"PixelFormat":17825797,"TriggerMode":0,"TriggerActivation":0,"TriggerSource":27,"ExposureMode":1,"ProgFrameTimeEnable":1,"TriggerType":1,"GainRaw":134,"gpsport":1,"filePath":""}
+2020-06-09 14:34:06,844 [DEBUG] ProgFrameTimeAbs=68 14705.882353
+2020-06-09 14:34:08,789 [DEBUG] 相机初使化参数{"system_ini":1,"ProgFrameTimeAbs":68,"ExposureTimeRaw":14705.882352941177,"BinningHorizontal":4,"BinningVertical":4,"Width":344,"Height":260,"ReverseX":0,"PixelFormat":17825797,"TriggerMode":0,"TriggerActivation":0,"TriggerSource":27,"ExposureMode":1,"ProgFrameTimeEnable":1,"TriggerType":1,"GainRaw":134,"gpsport":1,"filePath":""}
+2020-06-09 14:34:08,971 [DEBUG] ProgFrameTimeAbs=68 14705.882353
+2020-06-09 14:34:14,766 [DEBUG] StopAcquisition
+2020-06-09 14:34:22,943 [DEBUG] StopAcquisition
+2020-06-09 14:37:03,819 [DEBUG] 日志初使化成功
+2020-06-09 14:37:06,942 [DEBUG] 相机初使化参数{"system_ini":1,"ProgFrameTimeAbs":68,"ExposureTimeRaw":14705.882352941177,"BinningHorizontal":4,"BinningVertical":4,"Width":344,"Height":260,"ReverseX":0,"PixelFormat":17825797,"TriggerMode":0,"TriggerActivation":0,"TriggerSource":27,"ExposureMode":1,"ProgFrameTimeEnable":1,"TriggerType":1,"GainRaw":134,"gpsport":1,"filePath":""}
+2020-06-09 14:37:07,141 [DEBUG] ProgFrameTimeAbs=68 14705.882353
+2020-06-09 14:39:02,291 [DEBUG] 日志初使化成功
+2020-06-09 14:39:07,699 [DEBUG] 相机初使化参数{"system_ini":1,"ProgFrameTimeAbs":68,"ExposureTimeRaw":14705.882352941177,"BinningHorizontal":4,"BinningVertical":4,"Width":344,"Height":260,"ReverseX":0,"PixelFormat":17825797,"TriggerMode":0,"TriggerActivation":0,"TriggerSource":27,"ExposureMode":1,"ProgFrameTimeEnable":1,"TriggerType":1,"GainRaw":134,"gpsport":1,"filePath":""}
+2020-06-09 14:39:07,896 [DEBUG] ProgFrameTimeAbs=68 14705.882353
+2020-06-09 14:39:50,445 [DEBUG] 日志初使化成功
+2020-06-09 14:39:55,122 [DEBUG] 相机初使化参数{"system_ini":1,"ProgFrameTimeAbs":68,"ExposureTimeRaw":14705.882352941177,"BinningHorizontal":4,"BinningVertical":4,"Width":344,"Height":260,"ReverseX":0,"PixelFormat":17825797,"TriggerMode":0,"TriggerActivation":0,"TriggerSource":27,"ExposureMode":1,"ProgFrameTimeEnable":1,"TriggerType":1,"GainRaw":134,"gpsport":1,"filePath":""}
+2020-06-09 14:39:55,321 [DEBUG] ProgFrameTimeAbs=68 14705.882353
+2020-06-09 14:41:06,223 [DEBUG] 日志初使化成功
+2020-06-09 14:41:09,019 [DEBUG] 相机初使化参数{"system_ini":1,"ProgFrameTimeAbs":68,"ExposureTimeRaw":14705.882352941177,"BinningHorizontal":4,"BinningVertical":4,"Width":344,"Height":260,"ReverseX":0,"PixelFormat":17825797,"TriggerMode":0,"TriggerActivation":0,"TriggerSource":27,"ExposureMode":1,"ProgFrameTimeEnable":1,"TriggerType":1,"GainRaw":134,"gpsport":1,"filePath":""}
+2020-06-09 14:41:09,218 [DEBUG] ProgFrameTimeAbs=68 14705.882353
+2020-06-09 14:41:40,759 [DEBUG] 日志初使化成功
+2020-06-09 14:41:45,625 [DEBUG] 相机初使化参数{"system_ini":1,"ProgFrameTimeAbs":68,"ExposureTimeRaw":14705.882352941177,"BinningHorizontal":4,"BinningVertical":4,"Width":344,"Height":260,"ReverseX":0,"PixelFormat":17825797,"TriggerMode":0,"TriggerActivation":0,"TriggerSource":27,"ExposureMode":1,"ProgFrameTimeEnable":1,"TriggerType":1,"GainRaw":134,"gpsport":1,"filePath":""}
+2020-06-09 14:41:45,820 [DEBUG] ProgFrameTimeAbs=68 14705.882353
+2020-06-09 14:41:53,879 [DEBUG] StopAcquisition
+2020-06-09 14:42:58,299 [DEBUG] 日志初使化成功
+2020-06-09 14:43:02,118 [DEBUG] 相机初使化参数{"system_ini":1,"ProgFrameTimeAbs":68,"ExposureTimeRaw":14705.882352941177,"BinningHorizontal":4,"BinningVertical":4,"Width":344,"Height":260,"ReverseX":0,"PixelFormat":17825797,"TriggerMode":0,"TriggerActivation":0,"TriggerSource":27,"ExposureMode":1,"ProgFrameTimeEnable":1,"TriggerType":1,"GainRaw":134,"gpsport":1,"filePath":""}
+2020-06-09 14:43:02,315 [DEBUG] ProgFrameTimeAbs=68 14705.882353
+2020-06-09 14:44:40,896 [DEBUG] 日志初使化成功
+2020-06-09 14:44:44,142 [DEBUG] 相机初使化参数{"system_ini":1,"ProgFrameTimeAbs":68,"ExposureTimeRaw":14705.882352941177,"BinningHorizontal":4,"BinningVertical":4,"Width":344,"Height":260,"ReverseX":0,"PixelFormat":17825797,"TriggerMode":0,"TriggerActivation":0,"TriggerSource":27,"ExposureMode":1,"ProgFrameTimeEnable":1,"TriggerType":1,"GainRaw":134,"gpsport":1,"filePath":""}
+2020-06-09 14:44:44,345 [DEBUG] ProgFrameTimeAbs=68 14705.882353
+2020-06-09 14:45:22,793 [DEBUG] 日志初使化成功
+2020-06-09 14:45:25,510 [DEBUG] 相机初使化参数{"system_ini":1,"ProgFrameTimeAbs":68,"ExposureTimeRaw":14705.882352941177,"BinningHorizontal":4,"BinningVertical":4,"Width":344,"Height":260,"ReverseX":0,"PixelFormat":17825797,"TriggerMode":0,"TriggerActivation":0,"TriggerSource":27,"ExposureMode":1,"ProgFrameTimeEnable":1,"TriggerType":1,"GainRaw":134,"gpsport":1,"filePath":""}
+2020-06-09 14:45:25,709 [DEBUG] ProgFrameTimeAbs=68 14705.882353
+2020-06-09 14:47:00,362 [DEBUG] 日志初使化成功
+2020-06-09 14:47:09,823 [DEBUG] 相机初使化参数{"system_ini":1,"ProgFrameTimeAbs":68,"ExposureTimeRaw":14705.882352941177,"BinningHorizontal":4,"BinningVertical":4,"Width":344,"Height":260,"ReverseX":0,"PixelFormat":17825797,"TriggerMode":0,"TriggerActivation":0,"TriggerSource":27,"ExposureMode":1,"ProgFrameTimeEnable":1,"TriggerType":1,"GainRaw":134,"gpsport":1,"filePath":""}
+2020-06-09 14:47:10,024 [DEBUG] ProgFrameTimeAbs=68 14705.882353
+2020-06-09 14:49:05,036 [DEBUG] 日志初使化成功
+2020-06-09 14:49:07,653 [DEBUG] 相机初使化参数{"system_ini":1,"ProgFrameTimeAbs":68,"ExposureTimeRaw":14705.882352941177,"BinningHorizontal":4,"BinningVertical":4,"Width":344,"Height":260,"ReverseX":0,"PixelFormat":17825797,"TriggerMode":0,"TriggerActivation":0,"TriggerSource":27,"ExposureMode":1,"ProgFrameTimeEnable":1,"TriggerType":1,"GainRaw":134,"gpsport":1,"filePath":""}
+2020-06-09 14:49:07,853 [DEBUG] ProgFrameTimeAbs=68 14705.882353
+2020-06-09 14:49:35,829 [DEBUG] maxExposure 14705 value=14705
+2020-06-09 14:49:35,829 [DEBUG] maxExposurevalue=14705
+2020-06-09 14:49:35,856 [DEBUG] maxExposure 14705 value=14705
+2020-06-09 14:49:35,856 [DEBUG] maxExposurevalue=14705
+2020-06-09 14:50:02,640 [DEBUG] 日志初使化成功
+2020-06-09 14:50:07,773 [DEBUG] 相机初使化参数{"system_ini":1,"ProgFrameTimeAbs":68,"ExposureTimeRaw":14705.882352941177,"BinningHorizontal":4,"BinningVertical":4,"Width":344,"Height":260,"ReverseX":0,"PixelFormat":17825797,"TriggerMode":0,"TriggerActivation":0,"TriggerSource":27,"ExposureMode":1,"ProgFrameTimeEnable":1,"TriggerType":1,"GainRaw":134,"gpsport":1,"filePath":""}
+2020-06-09 14:50:07,999 [DEBUG] ProgFrameTimeAbs=68 14705.882353
+2020-06-09 14:50:18,605 [DEBUG] StopAcquisition
+2020-06-09 14:50:26,678 [DEBUG] StopAcquisition
+2020-06-09 14:51:11,608 [DEBUG] 相机初使化参数{"system_ini":1,"ProgFrameTimeAbs":68,"ExposureTimeRaw":14705.882352941177,"BinningHorizontal":4,"BinningVertical":4,"Width":344,"Height":260,"ReverseX":0,"PixelFormat":17825797,"TriggerMode":0,"TriggerActivation":0,"TriggerSource":27,"ExposureMode":1,"ProgFrameTimeEnable":1,"TriggerType":1,"GainRaw":134,"gpsport":1,"filePath":""}
+2020-06-09 14:51:11,783 [DEBUG] ProgFrameTimeAbs=68 14705.882353
