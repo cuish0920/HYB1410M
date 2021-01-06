@@ -109,7 +109,7 @@
   },
   "dependencies": {
     "HY_9010_T": "file:../HY_9010_T",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "echarts": "^4.7.0",
     "element-ui": "^2.13.2",
     "hy_bsd": "^1.0.1",
